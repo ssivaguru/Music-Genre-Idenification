@@ -11,3 +11,8 @@ disco/*
 hiphop/*
 metal/*
 mfcc\.h5
+Spectarl_contrast
+Spectral_bandwidth
+Spectral_Centroid
+Spectral_rolloff
+zero_crossing
